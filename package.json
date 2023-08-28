@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:jsierles/react-native-audio.git"
+    "url": "git@github.com:xiongxiongjiang/react-native-audio-fix.git"
   },
   "nativePackage": true
 }
